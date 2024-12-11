@@ -1,39 +1,39 @@
 {
   "Files": [
     {
-      "Id": "D:\\שיעורי בית\\core\\‏‏‏פרויקט-dotnet-סופיי\\wwwroot\\css\\login.css",
+      "Id": "C:\\Users\\user1\\Desktop\\github\\dotnet-project\\dotnet_project\\wwwroot\\css\\login.css",
       "PackagePath": "staticwebassets\\css\\login.css"
     },
     {
-      "Id": "D:\\שיעורי בית\\core\\‏‏‏פרויקט-dotnet-סופיי\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\user1\\Desktop\\github\\dotnet-project\\dotnet_project\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "D:\\שיעורי בית\\core\\‏‏‏פרויקט-dotnet-סופיי\\wwwroot\\css\\userList.css",
+      "Id": "C:\\Users\\user1\\Desktop\\github\\dotnet-project\\dotnet_project\\wwwroot\\css\\userList.css",
       "PackagePath": "staticwebassets\\css\\userList.css"
     },
     {
-      "Id": "D:\\שיעורי בית\\core\\‏‏‏פרויקט-dotnet-סופיי\\wwwroot\\index.html",
+      "Id": "C:\\Users\\user1\\Desktop\\github\\dotnet-project\\dotnet_project\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },
     {
-      "Id": "D:\\שיעורי בית\\core\\‏‏‏פרויקט-dotnet-סופיי\\wwwroot\\js\\login.js",
+      "Id": "C:\\Users\\user1\\Desktop\\github\\dotnet-project\\dotnet_project\\wwwroot\\js\\login.js",
       "PackagePath": "staticwebassets\\js\\login.js"
     },
     {
-      "Id": "D:\\שיעורי בית\\core\\‏‏‏פרויקט-dotnet-סופיי\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\user1\\Desktop\\github\\dotnet-project\\dotnet_project\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "D:\\שיעורי בית\\core\\‏‏‏פרויקט-dotnet-סופיי\\wwwroot\\js\\userList.js",
+      "Id": "C:\\Users\\user1\\Desktop\\github\\dotnet-project\\dotnet_project\\wwwroot\\js\\userList.js",
       "PackagePath": "staticwebassets\\js\\userList.js"
     },
     {
-      "Id": "D:\\שיעורי בית\\core\\‏‏‏פרויקט-dotnet-סופיי\\wwwroot\\login.html",
+      "Id": "C:\\Users\\user1\\Desktop\\github\\dotnet-project\\dotnet_project\\wwwroot\\login.html",
       "PackagePath": "staticwebassets\\login.html"
     },
     {
-      "Id": "D:\\שיעורי בית\\core\\‏‏‏פרויקט-dotnet-סופיי\\wwwroot\\userList.html",
+      "Id": "C:\\Users\\user1\\Desktop\\github\\dotnet-project\\dotnet_project\\wwwroot\\userList.html",
       "PackagePath": "staticwebassets\\userList.html"
     },
     {

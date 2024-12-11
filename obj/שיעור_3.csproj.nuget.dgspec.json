@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\שיעורי בית\\core\\‏‏‏פרויקט-dotnet-סופיי\\שיעור_3.csproj": {}
+    "C:\\Users\\user1\\Desktop\\github\\dotnet-project\\dotnet_project\\שיעור_3.csproj": {}
   },
   "projects": {
-    "D:\\שיעורי בית\\core\\‏‏‏פרויקט-dotnet-סופיי\\שיעור_3.csproj": {
+    "C:\\Users\\user1\\Desktop\\github\\dotnet-project\\dotnet_project\\שיעור_3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\שיעורי בית\\core\\‏‏‏פרויקט-dotnet-סופיי\\שיעור_3.csproj",
+        "projectUniqueName": "C:\\Users\\user1\\Desktop\\github\\dotnet-project\\dotnet_project\\שיעור_3.csproj",
         "projectName": "שיעור_3",
-        "projectPath": "D:\\שיעורי בית\\core\\‏‏‏פרויקט-dotnet-סופיי\\שיעור_3.csproj",
+        "projectPath": "C:\\Users\\user1\\Desktop\\github\\dotnet-project\\dotnet_project\\שיעור_3.csproj",
         "packagesPath": "C:\\Users\\user1\\.nuget\\packages\\",
-        "outputPath": "D:\\שיעורי בית\\core\\‏‏‏פרויקט-dotnet-סופיי\\obj\\",
+        "outputPath": "C:\\Users\\user1\\Desktop\\github\\dotnet-project\\dotnet_project\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user1\\AppData\\Roaming\\NuGet\\NuGet.Config",

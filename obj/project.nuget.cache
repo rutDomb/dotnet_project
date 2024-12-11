@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XmmPFpbD3Ps=",
+  "dgSpecHash": "baoUMcGLITM=",
   "success": true,
-  "projectFilePath": "D:\\שיעורי בית\\core\\‏‏‏פרויקט-dotnet-סופיי\\שיעור_3.csproj",
+  "projectFilePath": "C:\\Users\\user1\\Desktop\\github\\dotnet-project\\dotnet_project\\שיעור_3.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user1\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.4\\microsoft.aspnetcore.authentication.jwtbearer.5.0.4.nupkg.sha512",
     "C:\\Users\\user1\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

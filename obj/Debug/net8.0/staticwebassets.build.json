@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "yUgFHKD4jQZMsn06OUooExP0t8PIjzIikOaBjPfoY1I=",
+  "Hash": "ifoQBORwanNK03WOiqa+Zz/bpYRkZ5/Wiq7cGdddMJA=",
   "Source": "שיעור_3",
   "BasePath": "_content/שיעור_3",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "שיעור_3\\wwwroot",
       "Source": "שיעור_3",
-      "ContentRoot": "D:\\שיעורי בית\\core\\‏‏‏פרויקט-dotnet-סופיי\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user1\\Desktop\\github\\dotnet-project\\dotnet_project\\wwwroot\\",
       "BasePath": "_content/שיעור_3",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\שיעורי בית\\core\\‏‏‏פרויקט-dotnet-סופיי\\wwwroot\\css\\login.css",
+      "Identity": "C:\\Users\\user1\\Desktop\\github\\dotnet-project\\dotnet_project\\wwwroot\\css\\login.css",
       "SourceId": "שיעור_3",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\שיעורי בית\\core\\‏‏‏פרויקט-dotnet-סופיי\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user1\\Desktop\\github\\dotnet-project\\dotnet_project\\wwwroot\\",
       "BasePath": "_content/שיעור_3",
       "RelativePath": "css/login.css",
       "AssetKind": "All",
@@ -36,10 +36,10 @@
       "OriginalItemSpec": "wwwroot\\css\\login.css"
     },
     {
-      "Identity": "D:\\שיעורי בית\\core\\‏‏‏פרויקט-dotnet-סופיי\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\user1\\Desktop\\github\\dotnet-project\\dotnet_project\\wwwroot\\css\\site.css",
       "SourceId": "שיעור_3",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\שיעורי בית\\core\\‏‏‏פרויקט-dotnet-סופיי\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user1\\Desktop\\github\\dotnet-project\\dotnet_project\\wwwroot\\",
       "BasePath": "_content/שיעור_3",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -55,10 +55,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "D:\\שיעורי בית\\core\\‏‏‏פרויקט-dotnet-סופיי\\wwwroot\\css\\userList.css",
+      "Identity": "C:\\Users\\user1\\Desktop\\github\\dotnet-project\\dotnet_project\\wwwroot\\css\\userList.css",
       "SourceId": "שיעור_3",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\שיעורי בית\\core\\‏‏‏פרויקט-dotnet-סופיי\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user1\\Desktop\\github\\dotnet-project\\dotnet_project\\wwwroot\\",
       "BasePath": "_content/שיעור_3",
       "RelativePath": "css/userList.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\css\\userList.css"
     },
     {
-      "Identity": "D:\\שיעורי בית\\core\\‏‏‏פרויקט-dotnet-סופיי\\wwwroot\\index.html",
+      "Identity": "C:\\Users\\user1\\Desktop\\github\\dotnet-project\\dotnet_project\\wwwroot\\index.html",
       "SourceId": "שיעור_3",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\שיעורי בית\\core\\‏‏‏פרויקט-dotnet-סופיי\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user1\\Desktop\\github\\dotnet-project\\dotnet_project\\wwwroot\\",
       "BasePath": "_content/שיעור_3",
       "RelativePath": "index.html",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\index.html"
     },
     {
-      "Identity": "D:\\שיעורי בית\\core\\‏‏‏פרויקט-dotnet-סופיי\\wwwroot\\js\\login.js",
+      "Identity": "C:\\Users\\user1\\Desktop\\github\\dotnet-project\\dotnet_project\\wwwroot\\js\\login.js",
       "SourceId": "שיעור_3",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\שיעורי בית\\core\\‏‏‏פרויקט-dotnet-סופיי\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user1\\Desktop\\github\\dotnet-project\\dotnet_project\\wwwroot\\",
       "BasePath": "_content/שיעור_3",
       "RelativePath": "js/login.js",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\js\\login.js"
     },
     {
-      "Identity": "D:\\שיעורי בית\\core\\‏‏‏פרויקט-dotnet-סופיי\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\user1\\Desktop\\github\\dotnet-project\\dotnet_project\\wwwroot\\js\\site.js",
       "SourceId": "שיעור_3",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\שיעורי בית\\core\\‏‏‏פרויקט-dotnet-סופיי\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user1\\Desktop\\github\\dotnet-project\\dotnet_project\\wwwroot\\",
       "BasePath": "_content/שיעור_3",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "D:\\שיעורי בית\\core\\‏‏‏פרויקט-dotnet-סופיי\\wwwroot\\js\\userList.js",
+      "Identity": "C:\\Users\\user1\\Desktop\\github\\dotnet-project\\dotnet_project\\wwwroot\\js\\userList.js",
       "SourceId": "שיעור_3",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\שיעורי בית\\core\\‏‏‏פרויקט-dotnet-סופיי\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user1\\Desktop\\github\\dotnet-project\\dotnet_project\\wwwroot\\",
       "BasePath": "_content/שיעור_3",
       "RelativePath": "js/userList.js",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\js\\userList.js"
     },
     {
-      "Identity": "D:\\שיעורי בית\\core\\‏‏‏פרויקט-dotnet-סופיי\\wwwroot\\login.html",
+      "Identity": "C:\\Users\\user1\\Desktop\\github\\dotnet-project\\dotnet_project\\wwwroot\\login.html",
       "SourceId": "שיעור_3",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\שיעורי בית\\core\\‏‏‏פרויקט-dotnet-סופיי\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user1\\Desktop\\github\\dotnet-project\\dotnet_project\\wwwroot\\",
       "BasePath": "_content/שיעור_3",
       "RelativePath": "login.html",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\login.html"
     },
     {
-      "Identity": "D:\\שיעורי בית\\core\\‏‏‏פרויקט-dotnet-סופיי\\wwwroot\\userList.html",
+      "Identity": "C:\\Users\\user1\\Desktop\\github\\dotnet-project\\dotnet_project\\wwwroot\\userList.html",
       "SourceId": "שיעור_3",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\שיעורי בית\\core\\‏‏‏פרויקט-dotnet-סופיי\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user1\\Desktop\\github\\dotnet-project\\dotnet_project\\wwwroot\\",
       "BasePath": "_content/שיעור_3",
       "RelativePath": "userList.html",
       "AssetKind": "All",
