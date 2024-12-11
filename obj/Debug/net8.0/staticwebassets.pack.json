@@ -1,0 +1,57 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\שיעורי בית\\core\\‏‏‏פרויקט-dotnet-סופיי\\wwwroot\\css\\login.css",
+      "PackagePath": "staticwebassets\\css\\login.css"
+    },
+    {
+      "Id": "D:\\שיעורי בית\\core\\‏‏‏פרויקט-dotnet-סופיי\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\שיעורי בית\\core\\‏‏‏פרויקט-dotnet-סופיי\\wwwroot\\css\\userList.css",
+      "PackagePath": "staticwebassets\\css\\userList.css"
+    },
+    {
+      "Id": "D:\\שיעורי בית\\core\\‏‏‏פרויקט-dotnet-סופיי\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "D:\\שיעורי בית\\core\\‏‏‏פרויקט-dotnet-סופיי\\wwwroot\\js\\login.js",
+      "PackagePath": "staticwebassets\\js\\login.js"
+    },
+    {
+      "Id": "D:\\שיעורי בית\\core\\‏‏‏פרויקט-dotnet-סופיי\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\שיעורי בית\\core\\‏‏‏פרויקט-dotnet-סופיי\\wwwroot\\js\\userList.js",
+      "PackagePath": "staticwebassets\\js\\userList.js"
+    },
+    {
+      "Id": "D:\\שיעורי בית\\core\\‏‏‏פרויקט-dotnet-סופיי\\wwwroot\\login.html",
+      "PackagePath": "staticwebassets\\login.html"
+    },
+    {
+      "Id": "D:\\שיעורי בית\\core\\‏‏‏פרויקט-dotnet-סופיי\\wwwroot\\userList.html",
+      "PackagePath": "staticwebassets\\userList.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.שיעור_3.props",
+      "PackagePath": "build\\שיעור_3.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.שיעור_3.props",
+      "PackagePath": "buildMultiTargeting\\שיעור_3.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.שיעור_3.props",
+      "PackagePath": "buildTransitive\\שיעור_3.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.שיעור_3.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
